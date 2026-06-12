@@ -26,4 +26,4 @@ The dashboard screenshot is available in this repository.
 
 👩‍💻 Author
 
-Divya
+Divya.T
